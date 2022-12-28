@@ -1,2 +1,2 @@
-# sdk
-SDK documentation
+# duality
+Duality SDK documentation
